@@ -11,3 +11,5 @@ These are some dashboardas and codes we used through this competition, our appro
 
 As most of ML enthusiasts know feature engineering is the most important part of every ML competition and most informal one, everyone does it his/her way so instead of talking about feature engineering, here we 
 present some feature engineering based on many good public kernels and our own that are used to create diverse models. 
+
+We created a lot of oofs (150+) by changing parameters and features used in different models and dashboards. some of those models are presented here as examples...
